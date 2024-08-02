@@ -5,7 +5,7 @@
 ![starbucks](https://github.com/user-attachments/assets/860751a2-d9bf-48cd-8958-dd308b1fa65a)
 
 
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://pooneh-farzad.github.io/Starbucks/)
 
 - Developed by Pooneh Farzad
 
